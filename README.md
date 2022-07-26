@@ -1,0 +1,2 @@
+# shopp
+umid uchun
